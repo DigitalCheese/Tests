@@ -1,4 +1,4 @@
 <?php
 echo 'Test<br>'
-echo 'uwu'
+echo '<h2>uwu</h2>'
 ?>
