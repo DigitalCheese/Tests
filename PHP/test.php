@@ -1,5 +1,8 @@
 <?php
 // PHP IS HARD
-<h1>PHP Calculator</h1>
+echo '<h1>PHP 21</h1>';
 
+$x = "11";
+
+echo '$x + 10 equals 21!';
 ?>
