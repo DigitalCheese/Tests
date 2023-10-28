@@ -1,4 +1,3 @@
 <?php
-echo 'Test<br>'
-echo '<h2>uwu</h2>'
+echo 'Test';
 ?>
