@@ -1,3 +1,5 @@
 <?php
-echo 'Test';
+// PHP IS HARD
+<h1>PHP Calculator</h1>
+
 ?>
